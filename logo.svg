@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80" role="img" aria-label="Dollar Tree Rewards">
+<path d="M36 7 18 29h11L13 46h17v16h12V46h17L43 29h11Z" fill="#138a43"/>
+<path d="M36 7 43 29H36v33h6V46h17L43 29h11Z" fill="#77bc43"/>
+<text x="73" y="43" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" fill="#138a43">Dollar<tspan fill="#77bc43">Tree</tspan></text>
+<text x="75" y="64" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#54745f">REWARDS PROGRAM</text>
+</svg>
